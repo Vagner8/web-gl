@@ -2,5 +2,6 @@
 
 This project has been created using **webpack-cli**, you can now run
 
-npm i
-npm run dev
+### `npm i`
+### `npm run dev`
+
